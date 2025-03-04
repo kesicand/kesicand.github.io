@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Moja Strona</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Logo">
+        </div>
+        <div class="title">
+            <h1>yarrl S.A.</h1>
+        </div>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Strona główna</a></li>
+            <li><a href="zendesk-eng.html">Chatbot-Zendesk</a></li>
+            <li><a href="rodo.html">RODO</a></li>
+            <li><a href="reklamacje.html">Reklamacje</a></li>
+            <li><a href="cobrowse.html">Reklamacje</a></li>
+        </ul>
+    </nav>
+    <section class="banner">
+        <h1>Strona testowa platformy ZOOM!</h1>
+    </section>
+    <section class="content">
+        <p>Tutaj będzie regulamin COBROWSE.</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 Strona by AK</p>
+    </footer>
+</body>
+</html>
